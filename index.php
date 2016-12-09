@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>Prueba de PHP</title>
+  <title>telegram bot</title>
  </head>
  <body>
- <?php echo '<p>Hola Mundo</p>'; ?>
+ <?php echo '<p>.</p>'; ?>
  </body>
 </html>
